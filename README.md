@@ -1,3 +1,7 @@
+# Current status
+
+This project is not in active development at this time and is unsupported.
+
 # Project
 
 This library makes use of some "in-flight updates" to the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go). 
