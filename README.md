@@ -1,6 +1,6 @@
 # Current status
 
-This project is not in active development at this time and is unsupported.
+This project is deprecated and not in active development.
 
 # Project
 
