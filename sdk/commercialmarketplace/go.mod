@@ -1,4 +1,4 @@
-module github.com/microsoft/commercial-marketplace-client-go/sdk/commercialmarketplace
+module github.com/rajphoenix20/commercial-marketplace-client-go/sdk/commercialmarketplace
 
 go 1.17
 
